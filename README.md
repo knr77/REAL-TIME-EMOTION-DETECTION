@@ -50,4 +50,4 @@ This project aims to develop a real-time emotion detection system that operates 
 
 
 ## Contributors:
-- Rishi Sai Teja Ramanchi
+- Neeturkar Karthik
